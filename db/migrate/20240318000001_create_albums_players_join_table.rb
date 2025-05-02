@@ -8,4 +8,4 @@ class CreateAlbumsPlayersJoinTable < ActiveRecord::Migration[5.2]
 
     remove_reference :albums, :player
   end
-end 
+end
