@@ -1,0 +1,17 @@
+fijacion_shakira:
+  album_id: fijacion
+  player_id: shakira
+  created_at: <%= Time.current %>
+  updated_at: <%= Time.current %>
+
+fixation_shakira:
+  album_id: fixation
+  player_id: shakira
+  created_at: <%= Time.current %>
+  updated_at: <%= Time.current %>
+
+she_wolf_shakira:
+  album_id: she_wolf
+  player_id: shakira
+  created_at: <%= Time.current %>
+  updated_at: <%= Time.current %> 
